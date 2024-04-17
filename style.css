@@ -300,6 +300,10 @@ footer{
         padding-top: 100px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
+
+    #section img{
+        max-width: 100%;
+    }
     
     #section h1{
         padding-top: 90px;
